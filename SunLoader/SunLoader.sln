@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SunLoader", "SunLoader\SunLoader.vcxproj", "{A88A2B35-D2D9-4AC5-8325-374CFFE5F72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88A2B35-D2D9-4AC5-8325-374CFFE5F72C}.Release|x86.ActiveCfg = Release|Win32
+		{A88A2B35-D2D9-4AC5-8325-374CFFE5F72C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8EA5293-4EAE-4055-BDE3-A16D4FBE6F85}
+	EndGlobalSection
+EndGlobal
